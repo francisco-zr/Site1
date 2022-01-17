@@ -11,6 +11,7 @@
 .u-section-1 .u-image-1 {
   min-height: 400px;
   background-image: url("images/Ins.jpg");
+  border-radius: 15px;
 
 }
 
